@@ -1,3 +1,3 @@
 # rapid-whatsapp
 
-here live link - vishesh-pandey.github.io/rapid-whatsapp/
+here live link - https://vishesh-pandey.github.io/rapid-whatsapp/
